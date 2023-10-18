@@ -1,0 +1,69 @@
+h1{
+    background-color: rgb(62, 153, 20); 
+    height: 70px;
+    border: 50px;
+}
+
+h3{
+    font-size: 40px;;
+    background-color: white;
+    color: black;
+    display : flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2{
+    font-size: 20px;
+    font-style: italic;
+    color: black;
+    display : flex;
+    align-items: center;
+    justify-content: center;    
+}
+
+.image1{
+    width : 210px;
+    height : 140px; 
+    border-radius: 50%;
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto
+    }
+
+.container{
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    height: 60px;
+}
+
+.image2{
+    width: 50px;
+    height: 30px    
+}
+
+.image3{
+    width: 50px;
+    height: 30px
+}
+
+.image4{
+    width: 50px;
+    height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
